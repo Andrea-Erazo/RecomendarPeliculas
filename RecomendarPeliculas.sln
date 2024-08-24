@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecomendarPeliculas", "RecomendarPeliculas\RecomendarPeliculas.csproj", "{02ED42B1-6F2C-4720-9355-02D1313A0297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02ED42B1-6F2C-4720-9355-02D1313A0297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02ED42B1-6F2C-4720-9355-02D1313A0297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02ED42B1-6F2C-4720-9355-02D1313A0297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02ED42B1-6F2C-4720-9355-02D1313A0297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44C9776-0B2C-4838-8246-3BFDB56F932D}
+	EndGlobalSection
+EndGlobal
